@@ -6,10 +6,10 @@ The integration of a Zigbee network into Home Assistant allows managing devices 
 
 ---
 
-## 📦 Съдържание
+## 📦 Content
 
 - [🛜 Creating/Integration of Zigbee Network in Home Assistant](#-creatingintegration-of-zigbee-network-in-home-assistant)
-  - [📦 Съдържание](#-съдържание)
+  - [📦 Content](#-content)
   - [Hardware preparation:](#hardware-preparation)
   - [Software preparation:](#software-preparation)
 
