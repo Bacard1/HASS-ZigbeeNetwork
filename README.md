@@ -100,7 +100,7 @@ serial:
 ```
 
 > [!CAUTION]
->In "server:", you must enter the same IP address as Home Assistant 🔼. For "port:", follow the steps shown in the image below 🔽:
+> In "server:", you must enter the same IP address as Home Assistant 🔼. For "port:", follow the steps shown in the image below 🔽:
 
 ![server](/img/patch_usb_port002.gif)
 
